@@ -10,22 +10,12 @@ Interested? Here is how to get started.
 
 ## Description
 
-STOCKBREAKER
+![Stock Breaker AI](https://i.imgur.com/MBAWdPS.png)
+
+<strong>StockBreaker AI</strong>
 
 NumerAI releases a weekly challenge for Data Scientists, it is an open and descentralized market place for predictions.
-Each new round comes with a unique data zip. This zip includes all the data you will need to compete on Numerai.
-
-Training data - a CSV file containing rows of features and their binary target values. Use this to train your machine learning model.
-
-Tournament data - a CSV file with the same structure containing rows for validation, test and live. Run your trained model against these rows to generate your predictions.
-
-The dataset we provide is unlike what you would find in other data science competitions:
-
-Cleaned and Regularized - we do the prep work so you can focus on building the model.
-
-Obfuscated Data - row IDs and feature names are hidden to remove any human bias from the data science.
-
-Eras represent an unspecified period of time.
+We created StockBreaker AI to compete for a share of the prize.
 
 ## Objective
 
