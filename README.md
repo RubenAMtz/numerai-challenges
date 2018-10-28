@@ -6,8 +6,6 @@ Predictions submitted by users steer Numerai's hedge fund together.
 
 A weekly prize pool is paid out to the top performing users who stake.
 
-Interested? Here is how to get started.
-
 ## Description
 
 ![Stock Breaker AI](https://i.imgur.com/MBAWdPS.png)
