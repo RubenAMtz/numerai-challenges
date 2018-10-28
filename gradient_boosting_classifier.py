@@ -28,7 +28,7 @@ def main():
 
     #CONFIGURE YOUR MODELS:
     #Stochastic Gradient Boosting Classification
-    num_trees = 100
+    num_trees = 25
     kfold = model_selection.KFold(n_splits=len(train['era'].unique()), random_state=seed)
     #Configure model
     modelGBC = GradientBoostingClassifier(n_estimators=num_trees, random_state=seed, verbose=2)
