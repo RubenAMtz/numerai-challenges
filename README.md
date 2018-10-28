@@ -1,10 +1,6 @@
 # NumerAI Challenges
 
-NUMERAI is a weekly data science competition.
-
-Predictions submitted by users steer Numerai's hedge fund together.
-
-A weekly prize pool is paid out to the top performing users who stake.
+NumerAI is a weekly data science competition were predictions submitted by users help Numerai's hedge fund to stay alive while a weekly prize pool is paid out to the top performing users who stake.
 
 ## Description
 
