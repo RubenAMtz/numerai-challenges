@@ -8,7 +8,7 @@ from sklearn.externals import joblib
 def main():
     print("# Loading data...")
     train = pd.read_csv('./dataset/numerai_training_data.csv', header=0)
-    #data from data_engineering process
+    #data from feature_filtering process
     selected_features = pd.read_csv('./datasets/x_new.csv', header=0)
     tournament = pd.read_csv('./datasets/numerai_tournament_data.csv', header=0)
     validation = tournament[tournament['data_type']=='validation']
