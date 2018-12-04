@@ -11,6 +11,18 @@ NumerAI is a weekly data science competition were predictions submitted by users
 NumerAI releases a weekly challenge for Data Scientists, it is an open and descentralized market place for predictions.
 We created StockBreaker AI to compete for a share of the prize.
 
+## ** *Update* **
+
+We have beat the benchmark, our model was running with live data for the last month and it managed to beat the benchmark for this whole period:
+
+![Benchmark](https://github.com/RubenAMtz/numerai-challenges/blob/master/benchmark.PNG)
+
+We now plan to implement models for the rest of the objectives and maybe put some money on the line ;)
+
+
+
+----------
+
 ## Objective
 
 Submissions are graded on 3 metrics:
